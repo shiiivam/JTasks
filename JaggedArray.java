@@ -10,4 +10,3 @@ public class JaggedArray{
          }
     }
 }
-© 2021 GitHub, Inc.
